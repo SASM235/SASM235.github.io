@@ -3,8 +3,8 @@ My personal website
 
 ## Education
 
--M.Sc Integrated
--Post graduate Diploma
+-  M.Sc Integrated
+-  Post graduate Diploma
 
 ## Interests
 
